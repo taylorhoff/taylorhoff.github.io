@@ -1,0 +1,124 @@
+h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 100px;
+  color: white;
+  border:3px solid black;
+    padding:10px;
+    margin:30px;
+    background: black;
+  text-align: right;
+  padding: 1px;
+}
+
+#one {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  border: 2px solid black;
+   box-sizing: border-box;
+    width: 200px;
+    float: left;
+  text-align: center;
+  margin-left: -475px;
+
+}
+
+#two{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  border: 2px solid black;
+    box-sizing: border-box;
+      width: 100px;
+      float: left;
+    position: relative;
+    left: 25px;
+  text-align: center;
+  margin-left: -275px;
+}
+
+#three{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  border: 2px solid black;
+    box-sizing: border-box;
+      width: 125px;
+      float: left;
+    position: relative;
+    left: 50px;
+  text-align: center;
+  margin-left: -175px;
+}
+
+#four{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  border: 2px solid black;
+    box-sizing: border-box;
+      width: 175px;
+      float: left;
+    position: relative;
+    left: 75px;
+  text-align: center;
+  margin-left: -50px;
+}
+
+#five{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  border: 2px solid black;
+    box-sizing: border-box;
+      width: 100px;
+      float: left;
+    position: relative;
+    left: 100px;
+  text-align: center;
+  margin-left: 6px;
+}
+
+#six{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  border: 2px solid black;
+    box-sizing: border-box;
+      width: 100px;
+      float: left;
+    position: relative;
+    left: 125px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+h2 {
+  font-family: 'Poiret One', cursive;
+  font-size: 40px;
+  color: purple;
+  text-align: right;
+  position: relative;
+    right: 550px;
+      top: +100px;
+  padding-top: 30px;
+  }
+
+
+
+
+article {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-align:left;
+  position: relative;
+    left: 520px;
+    top: +39px;
+
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: grey;
+
+}
+
+#AP {
+  padding-bottom: 15px;
+
+}

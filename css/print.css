@@ -1,0 +1,20 @@
+a[href$=".html"] {
+  display:none
+}
+
+a[href^="http://"]{
+  display:inline
+}
+
+a[href^="http://"]:after {
+  content: "( "attr(href)")";
+}
+
+#container {
+  margin: 0 auto;
+  width: 800px;
+}
+
+nav{
+  display: none;
+}
