@@ -1,0 +1,95 @@
+body {
+
+    opacity:1;
+    width:100%;
+        background:url(../img/cover.jpg) no-repeat center center fixed;
+    background-size:cover;
+    font-family:"Poiret One", cursive;
+}
+
+
+.container {
+    width: 960px;
+    margin:auto;
+}
+
+.nav ul {
+    margin:0px;
+    padding:0px;
+}
+
+.nav li{
+ text-decoration:none;
+     list-style-type: none;
+        display:inline;
+    padding:0px 3px;
+}
+
+.nav li a {
+         -webkit-animation: fadein 4s;
+       -moz-animation: fadein 4s;
+        -ms-animation: fadein 4s;
+         -o-animation: fadein 4s;
+            animation: fadein 4s;
+}
+
+.brand p {
+  -webkit-animation: fadein 4s;
+       -moz-animation: fadein 4s;
+        -ms-animation: fadein 4s;
+         -o-animation: fadein 4s;
+            animation: fadein 4s;
+}
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.brand p {
+    font-size:30px;
+    margin:0px;
+    color:white;
+}
+
+.brand a {
+ text-decoration:none;
+}
+
+.nav li a{
+ text-decoration:none;
+    color:white;
+}
+
+.nav li a:hover{
+ text-decoration:underline;
+    color:white;
+}
